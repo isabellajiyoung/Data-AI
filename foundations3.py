@@ -164,3 +164,7 @@ print(nums.count(5)) #3
 nums=[1,2,3,4,5,3]
 print(nums.index(3)) #리스트에서 3이 처음 나오는 인덱스의 번호를 반환 #2
 
+
+
+#정렬(Sorting)
+
